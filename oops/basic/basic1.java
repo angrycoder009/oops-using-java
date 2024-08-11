@@ -18,7 +18,7 @@ public class basic1 {
         float [] marks = new float [5];
         ///here every 5 element is integer.
 
-        ///But hum chahte hain ki daata strucutre jo har ek student ka data specifically store kare
+        ///But hum chahte hain ki data structre jo har ek student ka data specifically store kare
 
         //nnow iss problem karne ke liye
         // use karte hai class concept
