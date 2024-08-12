@@ -1,5 +1,7 @@
 package oops.basic;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         //store 5 roll jnos
@@ -11,6 +13,14 @@ public class Main {
         String[] name = new String[5];
         float[] marks=new float[5];
 
-
+        //creating object
+        //basic just reference and declaring  but not creating the bject
+//        System.out.println(Arrays.toString(Student));
+    }
+    ///creating class
+    class Student{
+        int rno;
+        int name;
+        float marks;
     }
 }
